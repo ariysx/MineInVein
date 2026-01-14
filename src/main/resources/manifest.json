@@ -1,0 +1,16 @@
+{
+  "Group": "Rotomic",
+  "Name": "MineInVein",
+  "Version": "1.0.0",
+  "Description": "A Hytale plugin for vein mining",
+  "Authors": [
+    {
+      "Name": "Ariy"
+    }
+  ],
+  "Main": "ie.rotomic.hytale.mineinvein.Entry",
+  "ServerVersion": "*",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "DisabledByDefault": false
+}
