@@ -42,13 +42,6 @@ Mine in Vein eliminates the tedious task of manually breaking every ore block in
 2. Place the `.jar` file in your Hytale mods folder
 3. Launch Hytale and enjoy effortless vein mining!
 
-## 🛠️ For Developers
-
-The mod is structured with clean separation of concerns:
-- `VeinMiningUtils` - Core vein detection algorithm
-- `BlockBreakUtils` - Block breaking and item drop handling
-- `BreakBlockSystem` - Event system integration
-
 Built using the Hytale ECS (Entity Component System) architecture.
 
 ## 🤝 Contributing
